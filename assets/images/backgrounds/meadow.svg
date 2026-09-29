@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" >
+      <defs>
+        <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#3fa9f5"/><stop offset="0.6" stop-color="#9ed8ff"/><stop offset="1" stop-color="#e7f7ff"/></linearGradient>
+        <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+          <stop offset="0" stop-color="#fffbe0"/><stop offset="0.35" stop-color="#fff2a8"/><stop offset="1" stop-color="#fff2a8" stop-opacity="0"/></radialGradient>
+      </defs>
+      <rect width="1920" height="1080" fill="url(#sky)"/>
+      <circle cx="1500" cy="190" r="230" fill="url(#sun)"/>
+      <circle cx="1500" cy="190" r="70" fill="#fffbe6"/>
+      <g opacity="0.9" fill="#ffffff" transform="translate(461.4 162.9) scale(0.9)">
+      <ellipse cx="0" cy="0" rx="90" ry="34"/><ellipse cx="-50" cy="8" rx="60" ry="26"/>
+      <ellipse cx="55" cy="10" rx="70" ry="24"/><ellipse cx="10" cy="-22" rx="52" ry="34"/></g><g opacity="0.9" fill="#ffffff" transform="translate(144.1 294.6) scale(1.4)">
+      <ellipse cx="0" cy="0" rx="90" ry="34"/><ellipse cx="-50" cy="8" rx="60" ry="26"/>
+      <ellipse cx="55" cy="10" rx="70" ry="24"/><ellipse cx="10" cy="-22" rx="52" ry="34"/></g><g opacity="0.9" fill="#ffffff" transform="translate(163.5 295.3) scale(0.7)">
+      <ellipse cx="0" cy="0" rx="90" ry="34"/><ellipse cx="-50" cy="8" rx="60" ry="26"/>
+      <ellipse cx="55" cy="10" rx="70" ry="24"/><ellipse cx="10" cy="-22" rx="52" ry="34"/></g><g opacity="0.9" fill="#ffffff" transform="translate(410.4 316.3) scale(0.8)">
+      <ellipse cx="0" cy="0" rx="90" ry="34"/><ellipse cx="-50" cy="8" rx="60" ry="26"/>
+      <ellipse cx="55" cy="10" rx="70" ry="24"/><ellipse cx="10" cy="-22" rx="52" ry="34"/></g><g opacity="0.9" fill="#ffffff" transform="translate(689.9 186.5) scale(1.1)">
+      <ellipse cx="0" cy="0" rx="90" ry="34"/><ellipse cx="-50" cy="8" rx="60" ry="26"/>
+      <ellipse cx="55" cy="10" rx="70" ry="24"/><ellipse cx="10" cy="-22" rx="52" ry="34"/></g><g opacity="0.9" fill="#ffffff" transform="translate(1232.3 197.7) scale(1)">
+      <ellipse cx="0" cy="0" rx="90" ry="34"/><ellipse cx="-50" cy="8" rx="60" ry="26"/>
+      <ellipse cx="55" cy="10" rx="70" ry="24"/><ellipse cx="10" cy="-22" rx="52" ry="34"/></g><g opacity="0.9" fill="#ffffff" transform="translate(1283.4 199.8) scale(0.7)">
+      <ellipse cx="0" cy="0" rx="90" ry="34"/><ellipse cx="-50" cy="8" rx="60" ry="26"/>
+      <ellipse cx="55" cy="10" rx="70" ry="24"/><ellipse cx="10" cy="-22" rx="52" ry="34"/></g>
+      <path d="M0 640 L0 334.4 L60 415.2 L120 334.4 L180 348 L240 564 L300 544 L360 427.4 L420 610 L480 539.7 L540 609.6 L600 360.1 L660 318.3 L720 541.6 L780 339.4 L840 374.7 L900 355.7 L960 346.3 L1020 376.9 L1080 533.3 L1140 556.2 L1200 597.7 L1260 532 L1320 613.8 L1380 573.3 L1440 564.6 L1500 501.4 L1560 402.3 L1620 552 L1680 291.8 L1740 470.7 L1800 307.5 L1860 359.6 L1920 577.5 L1920 1080 L0 1080 Z" fill="#8fb8d8"/>
+      <path d="M0 700 L0 480.9 L45 535.6 L90 520.4 L135 487.4 L180 522.4 L225 582.8 L270 572.4 L315 670.2 L360 679.7 L405 664.4 L450 634.8 L495 584.5 L540 566.1 L585 604.7 L630 491.2 L675 541.5 L720 527.2 L765 535.3 L810 496.5 L855 642.5 L900 563.4 L945 605 L990 675.8 L1035 641.5 L1080 670.7 L1125 679.5 L1170 604.6 L1215 577.7 L1260 538.3 L1305 512.5 L1350 491.4 L1395 507.7 L1440 575.5 L1485 493.4 L1530 609 L1575 584.3 L1620 572.2 L1665 623.7 L1710 600 L1755 640.9 L1800 581.3 L1845 616.3 L1890 523.3 L1920 1080 L0 1080 Z" fill="#6f9fc2" opacity="0.85"/>
+      <path d="M0 820 Q160 684.4 320 815.5 Q480 671.2 640 793.2 Q800 676.2 960 817.4 Q1120 659.1 1280 818.3 Q1440 729.2 1600 790.2 Q1760 681.8 1920 815.8 L1920 1080 L0 1080 Z" fill="#7cc36a"/>
+      <path d="M0 900 Q192 798 384 899.5 Q576 817 768 886.7 Q960 817 1152 895.1 Q1344 808.3 1536 892 Q1728 818.5 1920 883.8 L1920 1080 L0 1080 Z" fill="#5aa94f"/>
+      <path d="M0 990 Q137.1 901.5 274.3 981.3 Q411.4 926.4 548.6 984.1 Q685.7 898.7 822.9 972.3 Q960 897 1097.1 986.3 Q1234.3 900.8 1371.4 975.1 Q1508.6 925.6 1645.7 989.6 Q1782.9 934.5 1920 978.2 L1920 1080 L0 1080 Z" fill="#3f8f3d"/></svg>
